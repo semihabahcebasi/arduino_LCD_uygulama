@@ -3,10 +3,7 @@
 Bu proje, bir Arduino Uno kullanarak 16x2 LCD ekranda "Hello World!" metnini ve ikinci satırda yanıp sönen bir smiley göstermeyi amaçlamaktadır. Kontrast ayarı için bir potansiyometre kullanılmıştır.
 
 ![Proje Şeması](Brave Luulia (1).png)
-![Proje Devresi](devre1.jpeg)
-![Proje Devresi](devre2.jpeg)
-![Proje Devresi](devre3.jpeg)
-![LCD - Arduino Bağlantı Tablosu](baglantı_tablosu.jpeg)
+!{ Proje ile ilgili görsellere medya kalsöründen ulaşabilirsiniz..}
 
 
 
